@@ -14,7 +14,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="52dp"
-        android:background="#0067D60D"
+        android:background="#6ECC0C"
         android:text="Add Food"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.835"
@@ -60,10 +60,10 @@
 
     <Button
         android:id="@+id/imgbtn"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="39dp"
+        android:layout_height="38dp"
         android:layout_marginTop="180dp"
-        android:text="add image"
+        android:background="@drawable/ic_menu_gallery"
         app:layout_constraintStart_toStartOf="@+id/foodviwe"
         app:layout_constraintTop_toTopOf="@+id/foodviwe" />
 
