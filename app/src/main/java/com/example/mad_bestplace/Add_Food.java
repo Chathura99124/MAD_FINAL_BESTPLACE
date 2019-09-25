@@ -181,11 +181,11 @@ public class Add_Food extends AppCompatActivity
         // Handle navigation view item clicks here.
         int id = item.getItemId();
 
-        if (id == R.id.nav_login) {
+        if (id == R.id.nav_shopfeed) {
             // Handle the camera action
-        } else if (id == R.id.nav_signup) {
+        } else if (id == R.id.nav_searchFood) {
 
-        } else if (id == R.id.nav_slideshow) {
+        } else if (id == R.id.nav_addshop) {
 
         } else if (id == R.id.nav_tools) {
 

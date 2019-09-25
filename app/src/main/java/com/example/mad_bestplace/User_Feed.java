@@ -1,9 +1,6 @@
 package com.example.mad_bestplace;
 
-import android.content.Context;
 import android.content.Intent;
-import android.database.Cursor;
-import android.database.sqlite.SQLiteOpenHelper;
 import android.os.Bundle;
 
 import com.example.mad_bestplace.Database.DBHelper;
@@ -185,12 +182,12 @@ public class User_Feed extends AppCompatActivity
         // Handle navigation view item clicks here.
         int id = item.getItemId();
 
-        if (id == R.id.nav_login){
+        if (id == R.id.nav_shopfeed){
 
             Intent redirect_add_shop = new Intent(User_Feed.this,Add_Shop.class);
             startActivity(redirect_add_shop);
 
-        } else if (id == R.id.nav_slideshow) {
+        } else if (id == R.id.nav_addshop) {
 
         } else if (id == R.id.nav_tools) {
 

@@ -18,7 +18,7 @@
     <string name="ADD_SHOP">Add Your Shop</string>
     <string name="SHOP_ID">Shop ID</string>
     <string name="SHOP_NAME">Shope Name</string>
-    <string name="SHOP_CONTACT">tel</string>
+    <string name="SHOP_CONTACT">Tel</string>
     <string name="SHOP_DISCRIPTION">Discription</string>
     <string name="SHOP_ADD_PHOTO">Add a photo</string>
     <string name="SHOP_ADDRESS">Address</string>
@@ -52,6 +52,10 @@
     <string name="title_activity_foodprofile">foodprofile</string>
     <string name="title_activity_food_edit">food_edit</string>
     <string name="title_activity_food_feed_line">food_feed_line</string>
+    <string name="BESTPLACENAVI">BEST PLACE</string>
+    <string name="SHOPFEED">Shop Feed</string>
+    <string name="SEARCHFOOD">Search Food</string>
+    <string name="ADDSHOPNAVI">Add Your Shop</string>
     <string-array name="User_Levels">
         <item>Shop Owner</item>
         <item>Customers</item>

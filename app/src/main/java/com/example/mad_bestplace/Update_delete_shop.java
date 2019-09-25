@@ -28,7 +28,6 @@ import android.view.Menu;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ImageView;
-import android.widget.TextView;
 import android.widget.Toast;
 
 public class Update_delete_shop extends AppCompatActivity
@@ -179,7 +178,7 @@ public class Update_delete_shop extends AppCompatActivity
             // Handle the camera action
         } else if (id == R.id.nav_gallery) {
 
-        } else if (id == R.id.nav_slideshow) {
+        } else if (id == R.id.nav_addshop) {
 
         } else if (id == R.id.nav_tools) {
 

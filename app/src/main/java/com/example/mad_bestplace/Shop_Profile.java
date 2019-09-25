@@ -28,7 +28,6 @@ import android.view.Menu;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
-import android.widget.Toast;
 
 public class Shop_Profile extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
@@ -164,7 +163,7 @@ public class Shop_Profile extends AppCompatActivity
             // Handle the camera action
         } else if (id == R.id.nav_gallery) {
 
-        } else if (id == R.id.nav_slideshow) {
+        } else if (id == R.id.nav_addshop) {
 
         } else if (id == R.id.nav_tools) {
 
